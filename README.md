@@ -18,12 +18,13 @@ At the start you have a simple application which displays planets from Star Wars
    1. gravity  - text
    1. terrain - dropdown
    1. surface_water - number
-1. UpdateGrid component so that the display of actions is conditional
+1. Update Grid`**` component so that the display of actions is conditional
 1. Make displaying **‘Go to Films’** and **‘Go to Residents’** whether or not they exist
-1. Update Grid component so header data will contain type of value and if it’s number align value to right in cell
-1. Add two custom columns to Planets - **Residents** and **Films** which will contain number of them. Try to do that by modify Planets component in App component and only prepare Planets component to be more customizable, in case we would like to use origin Planet component in other places
+1. Update Grid`**` component so header data will contain type of value and if it’s number align value to right in cell
+1. Create solution which allow to add two custom columns to Planets component - **Residents** and **Films** which will contain number of them. Try to do that by modify Planets component in App component and only prepare Planets component to be more customizable, in case we would like to use origin Planet component in other places
 
 `* all fields should be required and on form submit, close modal and show random success/error message (there is no endpoint)`
+`** remember that Grid component should stay reusable. This component isn't only for Planets`
 
 ## Mockups
 No mockups but would be great if you make that app pretty :)
