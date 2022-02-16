@@ -24,6 +24,7 @@ At the start you have a simple application which displays planets from Star Wars
 1. Create solution which allow to add two custom columns to Planets component - **Residents** and **Films** which will contain number of them. Try to do that by modify Planets component in App component and only prepare Planets component to be more customizable, in case we would like to use origin Planet component in other places
 
 `* all fields should be required and on form submit, close modal and show random success/error message (there is no endpoint)`
+
 `** remember that Grid component should stay reusable. This component isn't only for Planets`
 
 ## Mockups
