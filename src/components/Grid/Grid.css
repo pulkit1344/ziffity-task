@@ -1,5 +1,4 @@
 .gridTable {
-  /* border: 1px solid #000; */
   width: 100%;
   border-spacing: 0;
   border-collapse: separate;
@@ -25,6 +24,7 @@
   background: #f1f1f1;
 }
 
-.gridActions button {
-  margin: 0 5px;
+
+.right-aligned-text{
+  text-align: right;
 }
